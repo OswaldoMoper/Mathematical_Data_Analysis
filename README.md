@@ -10,4 +10,4 @@ At the same time, it includes a brief, but complete, introduction to the use of 
 ## Assignment
 The data sets and solution scripts needed to complete the assignments are found in this directory.
 ## Project
-This folder is to save the data analysis codes and the presentation of results of the analysis carried out with the chosen data set, which in my case is the [Formula 1 World Championship dataset](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020), which will also be found in said folder.
+This folder is to save the data analysis scripts and the presentation of results of the analysis carried out with the chosen data set, which in my case is the [Formula 1 World Championship dataset](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020), which will also be found in said folder.
