@@ -7,6 +7,8 @@ Code for managing data, creating Data Frames, and managing the Pandas library ca
 #### Third
 This directory contains code for handling and relationships between various DataFrames, as well as creating DataFrames for plotting.
 At the same time, it includes a brief, but complete, introduction to the use of the plotly library.
+## Data Analysis
+Code about Data Analysis and Data Science
 ## Assignment
 The data sets and solution scripts needed to complete the assignments are found in this directory.
 ## Project
